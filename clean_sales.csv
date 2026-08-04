@@ -1,0 +1,281 @@
+OrderID,Category,Product,Price,Quantity,CustomerAge,DeliveryDays,Rating,Total
+1002,Sport,Bicycle Helmet,41.15,6,43.0,5.0,5.0,246.89999999999998
+1003,Books,Python Programming,32.57,3,39.0,4.0,3.4,97.71000000000001
+1004,Games,Gaming Mouse,83.67,4,25.0,3.0,5.0,334.68
+1005,Electronics,Monitor,136.5,4,49.0,8.0,4.2,546.0
+1006,Electronics,Smartwatch,131.95999999999998,1,47.0,5.0,3.3,131.95999999999998
+1007,Electronics,Powerbank,182.46,4,27.0,6.0,2.8,729.84
+1008,Sport,Dumbbells,46.31,4,27.0,3.0,3.0,185.24
+1009,Games,Console Game,45.34,2,28.0,5.0,3.7,90.68
+1010,Books,Fiction Novel,40.17,3,29.0,3.0,4.1,120.51
+1011,Electronics,Bluetooth Speaker,98.37,6,44.0,6.0,5.0,590.22
+1012,Sport,Bicycle Helmet,33.18,2,38.0,5.0,4.8,66.36
+1013,Books,Sci-Fi Book,23.64,3,43.0,3.0,3.5,70.92
+1014,Electronics,Smartwatch,91.3,1,41.0,5.0,4.5,91.3
+1015,Electronics,Monitor,136.99,1,51.0,6.0,5.0,136.99
+1016,Electronics,Smartwatch,4999.0,2,23.0,3.0,5.0,9998.0
+1017,Clothing,Hoodie,6.74,3,38.0,1.0,3.9,20.22
+1018,Games,Gamepad,50.98,4,18.0,5.0,5.0,203.92
+1019,Clothing,Sneakers,38.79,3,21.0,2.0,5.0,116.37
+1020,Clothing,Hoodie,55.71,3,33.0,4.0,3.0,167.13
+1021,Games,Gamepad,46.55,2,38.0,6.0,3.8,93.1
+1022,Electronics,Smartwatch,216.41,5,33.0,3.0,5.0,1082.05
+1023,Clothing,Jeans,61.76,4,28.0,2.0,4.0,247.04
+1024,Clothing,T-Shirt,40.32,2,30.0,3.0,1.9,80.64
+1025,Clothing,Jeans,58.8,2,48.0,3.0,4.1,117.6
+1026,Books,Fiction Novel,33.94,4,30.0,4.0,5.0,135.76
+1027,Electronics,Monitor,133.4,3,51.0,2.0,4.2,400.20000000000005
+1028,Games,Keyboard,67.03999999999999,2,42.0,8.0,4.8,134.07999999999998
+1029,Games,Gamepad,55.81,4,39.0,6.0,5.0,223.24
+1030,Electronics,Monitor,133.65,1,22.0,2.0,3.9,133.65
+1031,Games,Keyboard,67.35,1,43.0,2.0,3.8,67.35
+1032,Electronics,Monitor,198.89,2,29.0,2.0,4.3,397.78
+1034,Sport,Bicycle Helmet,35.239999999999995,5,39.0,4.0,4.2,176.2
+1035,Sport,Dumbbells,18.69,2,20.0,7.0,4.3,37.38
+1036,Books,Python Programming,44.71,6,26.0,4.0,3.6,268.26
+1037,Clothing,Hoodie,41.84,5,34.0,5.0,4.8,209.20000000000002
+1038,Electronics,Headphones,144.25,2,56.0,4.0,4.7,288.5
+1039,Games,Keyboard,83.59,4,27.0,4.0,3.1,334.36
+1040,Clothing,Sneakers,47.73,2,29.0,4.0,3.9,95.46
+1041,Electronics,Monitor,117.99,2,41.0,3.0,4.3,235.98
+1042,Clothing,T-Shirt,62.04,1,22.0,5.0,3.8,62.04
+1043,Electronics,Powerbank,141.59,4,38.0,3.0,4.7,566.36
+1044,Sport,Fitness Band,46.15,3,46.0,5.0,4.1,138.45
+1045,Clothing,Sneakers,26.72,3,31.0,5.0,4.3,80.16
+1046,Games,Board Game,73.09,4,44.0,1.0,3.9,292.36
+1047,Clothing,Jeans,49.51,4,37.0,5.0,2.6,198.04
+1049,Games,Gaming Mouse,62.28,5,32.0,4.0,4.7,311.4
+1050,Electronics,Headphones,50.75,2,30.0,5.0,4.4,101.5
+1051,Sport,Fitness Band,64.59,2,33.0,3.0,4.6,129.18
+1052,Books,Sci-Fi Book,21.74,1,36.0,5.0,4.3,21.74
+1053,Sport,Dumbbells,56.92,1,40.0,3.0,4.4,56.92
+1054,Sport,Fitness Band,31.46,1,39.0,2.0,5.0,31.46
+1055,Games,Gaming Mouse,63.4,1,18.0,4.0,4.6,63.4
+1056,Sport,Dumbbells,30.42,3,33.0,6.0,5.0,91.26
+1057,Electronics,Powerbank,160.9,2,19.0,5.0,4.3,321.8
+1058,Electronics,Smartwatch,116.53,3,31.0,3.0,4.0,349.59000000000003
+1059,Electronics,Smartwatch,141.84,1,33.0,6.0,4.4,141.84
+1060,Clothing,Jacket,45.18,2,44.0,5.0,3.5,90.36
+1061,Clothing,Jeans,28.61,4,34.0,7.0,3.9,114.44
+1062,Clothing,T-Shirt,51.05,2,37.0,2.0,4.3,102.1
+1063,Books,Biography,26.23,1,42.0,2.0,4.3,26.23
+1065,Clothing,Sneakers,42.17,4,33.0,2.0,3.1,168.68
+1066,Games,Board Game,53.85,7,35.0,6.0,4.7,376.95
+1067,Electronics,Headphones,185.59,3,34.0,4.0,4.9,556.77
+1068,Books,History Book,47.86,2,29.0,5.0,5.0,95.72
+1069,Electronics,Bluetooth Speaker,153.3,1,26.0,4.0,4.6,153.3
+1070,Sport,Bicycle Helmet,36.99,2,18.0,2.0,4.2,73.98
+1071,Books,History Book,27.19,5,23.0,2.0,3.4,135.95000000000002
+1072,Electronics,Smartwatch,95.53,3,18.0,4.0,5.0,286.59000000000003
+1073,Electronics,Bluetooth Speaker,102.49,2,47.0,2.0,4.4,204.98
+1074,Books,History Book,27.95,5,36.0,6.0,4.4,139.75
+1075,Books,Fiction Novel,44.73,2,33.0,4.0,4.0,89.46
+1076,Books,Fiction Novel,28.52,4,27.0,6.0,3.9,114.08
+1077,Books,Biography,20.8,2,34.0,3.0,4.8,41.6
+1078,Electronics,Bluetooth Speaker,126.5,1,26.0,4.0,3.4,126.5
+1079,Clothing,Jacket,47.14,2,36.0,4.0,5.0,94.28
+1080,Electronics,Monitor,126.28,4,36.0,3.0,5.0,505.12
+1081,Sport,Bicycle Helmet,48.4,2,25.0,3.0,3.9,96.8
+1083,Clothing,T-Shirt,54.22,3,44.0,3.0,2.6,162.66
+1084,Electronics,Headphones,96.91,3,33.0,6.0,3.2,290.73
+1085,Clothing,Jeans,66.37,5,26.0,6.0,4.8,331.85
+1086,Clothing,Jacket,48.03,5,30.0,5.0,4.5,240.15
+1087,Books,History Book,33.0,2,24.0,4.0,4.6,66.0
+1088,Games,Keyboard,43.23,1,33.0,5.0,2.7,43.23
+1089,Sport,Fitness Band,44.95,2,42.0,45.0,3.9,89.9
+1090,Clothing,Sneakers,52.81,2,34.0,6.0,5.0,105.62
+1091,Electronics,Smartwatch,82.89,2,58.0,3.0,4.1,165.78
+1092,Books,Biography,17.560000000000002,5,38.0,3.0,3.2,87.80000000000001
+1093,Books,Python Programming,32.2,4,36.0,3.0,4.1,128.8
+1094,Games,Board Game,47.67,3,25.0,5.0,3.6,143.01
+1095,Books,Python Programming,31.95,2,32.0,4.0,4.5,63.9
+1096,Clothing,T-Shirt,29.51,3,26.0,6.0,4.2,88.53
+1097,Games,Board Game,31.59,2,18.0,7.0,4.6,63.18
+1098,Clothing,Hoodie,47.48,2,44.0,3.0,3.2,94.96
+1099,Electronics,Smartwatch,112.41,2,29.0,4.0,3.8,224.82
+1100,Electronics,Smartwatch,49.01,3,26.0,2.0,5.0,147.03
+1101,Electronics,Smartwatch,173.35,2,36.0,6.0,3.1,346.7
+1102,Games,Board Game,35.39,2,39.0,7.0,3.4,70.78
+1103,Clothing,Jacket,75.88,3,31.0,6.0,4.4,227.64
+1104,Games,Gamepad,45.64,4,34.0,1.0,4.4,182.56
+1105,Sport,Bicycle Helmet,44.22,1,41.0,2.0,3.8,44.22
+1106,Electronics,Smartwatch,184.29,5,30.0,3.0,4.0,921.4499999999999
+1107,Clothing,Hoodie,62.75,3,37.0,6.0,4.6,188.25
+1108,Books,Sci-Fi Book,44.9,4,18.0,5.0,4.9,179.6
+1109,Electronics,Monitor,70.17,1,22.0,6.0,3.3,70.17
+1110,Electronics,Bluetooth Speaker,84.11,1,40.0,4.0,4.5,84.11
+1111,Clothing,Hoodie,47.71,3,21.0,4.0,5.0,143.13
+1112,Electronics,Powerbank,155.23,4,36.0,5.0,4.1,620.92
+1113,Sport,Yoga Mat,39.88,3,33.0,3.0,3.3,119.64000000000001
+1114,Books,Biography,17.72,1,30.0,1.0,3.3,17.72
+1115,Games,Keyboard,62.45,3,26.0,5.0,4.1,187.35000000000002
+1116,Sport,Yoga Mat,37.96,7,43.0,4.0,5.0,265.72
+1117,Books,History Book,28.45,4,51.0,8.0,4.2,113.8
+1118,Electronics,Smartwatch,42.99,4,37.0,3.0,4.4,171.96
+1119,Sport,Fitness Band,48.37,2,37.0,5.0,3.4,96.74
+1120,Games,Gamepad,57.18,2,27.0,5.0,5.0,114.36
+1121,Books,Python Programming,43.46,1,22.0,3.0,3.3,43.46
+1122,Sport,Yoga Mat,39.22,3,34.0,7.0,3.8,117.66
+1123,Clothing,Jacket,51.8,5,24.0,5.0,4.7,259.0
+1124,Electronics,Powerbank,154.95,2,18.0,7.0,2.6,309.9
+1125,Electronics,Smartwatch,62.14,3,42.0,4.0,4.3,186.42000000000002
+1126,Clothing,T-Shirt,76.4,2,43.0,6.0,3.4,152.8
+1127,Books,Biography,26.77,1,25.0,4.0,4.2,26.77
+1128,Sport,Bicycle Helmet,45.19,3,36.0,7.0,3.9,135.57
+1129,Electronics,Headphones,148.06,3,44.0,5.0,5.0,444.18
+1130,Games,Keyboard,42.78,3,36.0,3.0,3.9,128.34
+1131,Clothing,T-Shirt,67.16,8,22.0,4.0,5.0,537.28
+1132,Electronics,Bluetooth Speaker,134.57,1,32.0,8.0,4.7,134.57
+1133,Electronics,Headphones,117.31,1,47.0,4.0,3.6,117.31
+1134,Clothing,T-Shirt,46.66,2,36.0,3.0,4.5,93.32
+1135,Sport,Yoga Mat,48.02,2,39.0,3.0,4.0,96.04
+1136,Clothing,Sneakers,45.13,4,37.0,2.0,4.4,180.52
+1137,Games,Gamepad,68.22999999999999,3,25.0,4.0,3.6,204.68999999999997
+1138,Books,Biography,17.36,3,28.0,7.0,5.0,52.08
+1139,Clothing,Jacket,36.02,3,37.0,6.0,4.9,108.06
+1140,Sport,Water Bottle,17.54,2,42.0,2.0,4.2,35.08
+1141,Sport,Yoga Mat,60.97,3,45.0,4.0,5.0,182.91
+1142,Clothing,Sneakers,68.81,5,25.0,4.0,4.3,344.05
+1143,Clothing,Sneakers,52.52,6,38.0,3.0,5.0,315.12
+1144,Clothing,Hoodie,32.85,5,46.0,4.0,4.2,164.25
+1145,Clothing,T-Shirt,73.68,1,24.0,5.0,4.5,73.68
+1146,Electronics,Bluetooth Speaker,103.24,1,49.0,7.0,4.1,103.24
+1147,Games,Gaming Mouse,51.8,4,50.0,2.0,4.3,207.2
+1148,Games,Gamepad,57.39,3,60.0,6.0,4.3,172.17000000000002
+1149,Electronics,Powerbank,141.25,4,36.0,6.0,3.7,565.0
+1150,Clothing,Sneakers,52.73,1,36.0,6.0,3.9,52.73
+1151,Sport,Water Bottle,47.18,1,42.0,6.0,4.0,47.18
+1152,Electronics,Smartwatch,119.8,1,42.0,6.0,4.4,119.8
+1154,Clothing,Hoodie,42.73,2,42.0,6.0,5.0,85.46
+1155,Sport,Water Bottle,46.08,2,33.0,4.0,4.9,92.16
+1156,Electronics,Powerbank,142.9,2,46.0,7.0,4.0,285.8
+1157,Games,Gamepad,66.44,2,23.0,7.0,5.0,132.88
+1158,Books,History Book,34.78,5,34.0,5.0,5.0,173.9
+1159,Electronics,Bluetooth Speaker,109.07,4,50.0,6.0,2.6,436.28
+1160,Books,Biography,33.44,2,21.0,4.0,4.9,66.88
+1161,Clothing,Sneakers,52.84,3,27.0,1.0,3.6,158.52
+1162,Games,Keyboard,35.629999999999995,4,41.0,1.0,4.8,142.51999999999998
+1163,Games,Gamepad,50.89,2,38.0,8.0,5.0,101.78
+1164,Games,Keyboard,64.12,3,25.0,5.0,3.5,192.36
+1165,Electronics,Monitor,186.53,4,30.0,9.0,2.7,746.12
+1166,Books,Sci-Fi Book,36.19,3,22.0,2.0,4.9,108.57
+1168,Electronics,Smartwatch,110.66,2,31.0,4.0,2.9,221.32
+1169,Electronics,Monitor,134.01,3,52.0,6.0,5.0,402.03
+1170,Games,Console Game,67.09,2,35.0,3.0,4.7,134.18
+1171,Games,Keyboard,20.1,3,32.0,1.0,4.7,60.300000000000004
+1172,Electronics,Bluetooth Speaker,179.39,2,31.0,2.0,5.0,358.78
+1173,Games,Console Game,27.09,3,32.0,5.0,3.7,81.27
+1174,Electronics,Smartwatch,160.89,2,35.0,6.0,4.3,321.78
+1175,Games,Gaming Mouse,65.3,3,59.0,5.0,3.1,195.89999999999998
+1176,Electronics,Headphones,40.77,3,31.0,5.0,3.7,122.31
+1177,Games,Board Game,20.66,4,31.0,4.0,4.5,82.64
+1178,Clothing,Jeans,62.19,2,35.0,8.0,2.9,124.38
+1180,Electronics,Headphones,93.29,5,20.0,2.0,3.5,466.45000000000005
+1181,Clothing,Hoodie,34.42,2,39.0,5.0,4.3,68.84
+1182,Electronics,Monitor,143.45,2,26.0,3.0,4.7,286.9
+1183,Sport,Dumbbells,39.87,2,40.0,6.0,4.8,79.74
+1184,Sport,Yoga Mat,51.07,2,29.0,2.0,5.0,102.14
+1186,Games,Console Game,78.75,1,38.0,4.0,4.7,78.75
+1187,Books,Sci-Fi Book,37.28,3,38.0,1.0,5.0,111.84
+1188,Games,Board Game,65.81,3,28.0,3.0,4.3,197.43
+1189,Games,Keyboard,49.72,4,28.0,4.0,4.1,198.88
+1191,Electronics,Monitor,123.14,1,42.0,2.0,4.0,123.14
+1192,Sport,Water Bottle,59.33,1,43.0,4.0,5.0,59.33
+1193,Sport,Fitness Band,35.730000000000004,1,25.0,4.0,5.0,35.730000000000004
+1194,Games,Gamepad,58.91,3,29.0,3.0,4.8,176.73
+1195,Clothing,Sneakers,18.06,2,33.0,3.0,4.3,36.12
+1197,Books,Fiction Novel,46.93,3,39.0,6.0,4.8,140.79
+1198,Sport,Fitness Band,30.2,4,25.0,2.0,3.3,120.8
+1200,Books,History Book,31.37,1,20.0,3.0,4.1,31.37
+1201,Games,Gaming Mouse,16.41,7,41.0,1.0,4.4,114.87
+1202,Electronics,Bluetooth Speaker,111.12,2,51.0,2.0,3.5,222.24
+1203,Electronics,Monitor,172.9,5,51.0,3.0,4.8,864.5
+1204,Sport,Bicycle Helmet,60.99,1,41.0,4.0,3.8,60.99
+1205,Games,Console Game,65.77000000000001,2,28.0,5.0,4.7,131.54000000000002
+1206,Electronics,Smartwatch,181.43,6,21.0,2.0,4.8,1088.58
+1207,Electronics,Smartwatch,82.6,3,20.0,5.0,3.7,247.79999999999998
+1208,Games,Console Game,44.8,3,18.0,3.0,3.3,134.39999999999998
+1209,Electronics,Bluetooth Speaker,64.53999999999999,4,41.0,5.0,5.0,258.15999999999997
+1211,Games,Keyboard,66.43,1,43.0,7.0,4.4,66.43
+1212,Games,Board Game,58.19,2,48.0,3.0,4.6,116.38
+1213,Games,Gaming Mouse,68.02000000000001,4,35.0,6.0,3.2,272.08000000000004
+1215,Books,History Book,23.43,1,29.0,1.0,4.3,23.43
+1216,Electronics,Powerbank,132.37,2,31.0,3.0,3.7,264.74
+1217,Clothing,Hoodie,37.77,3,41.0,6.0,3.3,113.31
+1218,Books,Fiction Novel,39.76,5,32.0,2.0,4.7,198.79999999999998
+1219,Games,Gamepad,45.59,2,31.0,3.0,5.0,91.18
+1220,Books,Python Programming,26.28,4,34.0,5.0,4.3,105.12
+1221,Games,Keyboard,61.28,2,43.0,8.0,3.1,122.56
+1222,Games,Gaming Mouse,49.16,2,27.0,4.0,3.4,98.32
+1223,Electronics,Headphones,80.54,5,33.0,5.0,3.9,402.70000000000005
+1224,Clothing,Sneakers,31.81,1,36.0,2.0,5.0,31.81
+1225,Clothing,T-Shirt,51.45,5,46.0,7.0,4.0,257.25
+1226,Electronics,Headphones,76.09,1,32.0,4.0,3.8,76.09
+1227,Sport,Yoga Mat,54.67,3,27.0,4.0,2.9,164.01
+1228,Clothing,Hoodie,36.72,3,29.0,6.0,3.7,110.16
+1229,Sport,Dumbbells,46.47,3,45.0,5.0,3.2,139.41
+1230,Games,Gaming Mouse,45.54,3,54.0,2.0,3.4,136.62
+1231,Books,Biography,23.14,1,21.0,5.0,4.3,23.14
+1233,Games,Keyboard,70.78,4,32.0,6.0,5.0,283.12
+1235,Electronics,Monitor,122.64,4,42.0,4.0,3.7,490.56
+1236,Books,Python Programming,36.06,2,25.0,7.0,3.5,72.12
+1237,Clothing,Sneakers,55.09,6,23.0,5.0,5.0,330.54
+1238,Electronics,Monitor,123.61,2,35.0,3.0,5.0,247.22
+1239,Games,Gaming Mouse,48.35,3,31.0,1.0,2.4,145.05
+1240,Electronics,Bluetooth Speaker,127.98,2,43.0,2.0,4.3,255.96
+1241,Sport,Water Bottle,38.0,2,39.0,3.0,4.0,76.0
+1242,Sport,Bicycle Helmet,43.29,2,40.0,4.0,4.7,86.58
+1243,Sport,Yoga Mat,27.46,2,33.0,5.0,5.0,54.92
+1245,Electronics,Headphones,99.14,1,26.0,5.0,2.6,99.14
+1246,Sport,Yoga Mat,49.51,2,40.0,6.0,4.7,99.02
+1247,Clothing,T-Shirt,36.93,3,21.0,7.0,5.0,110.78999999999999
+1248,Sport,Fitness Band,33.120000000000005,2,23.0,4.0,4.0,66.24000000000001
+1249,Sport,Water Bottle,44.68,4,28.0,5.0,3.6,178.72
+1250,Sport,Yoga Mat,40.15,4,50.0,2.0,3.9,160.6
+1251,Clothing,Jacket,72.32,3,37.0,4.0,4.9,216.95999999999998
+1252,Clothing,Sneakers,25.45,3,28.0,4.0,3.8,76.35
+1253,Sport,Dumbbells,41.15,3,38.0,8.0,4.5,123.44999999999999
+1254,Clothing,Sneakers,58.56,3,34.0,6.0,4.2,175.68
+1255,Electronics,Powerbank,104.18,2,29.0,7.0,4.1,208.36
+1256,Games,Keyboard,41.34,2,20.0,3.0,4.8,82.68
+1257,Sport,Dumbbells,30.86,1,48.0,4.0,3.8,30.86
+1258,Games,Gaming Mouse,30.82,2,36.0,6.0,3.9,61.64
+1259,Games,Gaming Mouse,75.25,3,56.0,1.0,4.8,225.75
+1260,Electronics,Smartwatch,113.13,2,43.0,4.0,3.4,226.26
+1261,Games,Board Game,48.28,4,40.0,6.0,3.5,193.12
+1262,Sport,Bicycle Helmet,17.7,3,30.0,5.0,3.2,53.099999999999994
+1263,Electronics,Smartwatch,73.39,1,23.0,5.0,4.9,73.39
+1264,Games,Gaming Mouse,76.98,3,32.0,2.0,4.1,230.94
+1265,Sport,Bicycle Helmet,43.18,2,23.0,3.0,3.1,86.36
+1266,Books,Biography,38.75,2,41.0,4.0,4.9,77.5
+1267,Games,Gamepad,70.6,3,50.0,8.0,3.8,211.79999999999998
+1268,Books,History Book,22.5,2,31.0,4.0,3.5,45.0
+1269,Clothing,Jacket,74.16,4,43.0,8.0,4.0,296.64
+1271,Books,Fiction Novel,25.77,1,31.0,7.0,3.9,25.77
+1272,Books,Fiction Novel,6.76,1,26.0,3.0,4.7,6.76
+1273,Sport,Fitness Band,36.260000000000005,2,18.0,5.0,4.8,72.52000000000001
+1274,Sport,Bicycle Helmet,42.5,2,34.0,2.0,4.6,85.0
+1275,Games,Keyboard,46.48,2,35.0,3.0,5.0,92.96
+1276,Games,Gaming Mouse,51.68,5,45.0,3.0,3.6,258.4
+1277,Books,Biography,23.79,4,42.0,5.0,3.4,95.16
+1278,Games,Keyboard,68.82,3,42.0,7.0,3.3,206.45999999999998
+1279,Books,Python Programming,30.48,4,24.0,2.0,4.1,121.92
+1280,Books,Biography,37.14,1,39.0,6.0,3.4,37.14
+1281,Sport,Dumbbells,52.83,3,50.0,6.0,4.3,158.49
+1282,Clothing,Jacket,18.91,1,38.0,3.0,4.3,18.91
+1283,Clothing,Hoodie,35.75,1,52.0,2.0,5.0,35.75
+1284,Electronics,Headphones,102.53,3,54.0,5.0,4.4,307.59000000000003
+1285,Games,Board Game,93.57,4,31.0,2.0,3.9,374.28
+1286,Electronics,Smartwatch,130.36,2,27.0,4.0,4.5,260.72
+1287,Clothing,Jeans,54.75,6,26.0,3.0,3.4,328.5
+1289,Clothing,Hoodie,46.72,3,29.0,5.0,4.5,140.16
+1290,Games,Keyboard,69.67,1,46.0,6.0,4.3,69.67
+1291,Electronics,Headphones,156.03,2,18.0,4.0,4.5,312.06
+1292,Electronics,Headphones,147.44,4,24.0,6.0,3.7,589.76
+1294,Clothing,T-Shirt,45.74,1,25.0,4.0,5.0,45.74
+1295,Electronics,Bluetooth Speaker,64.03999999999999,3,29.0,8.0,2.9,192.11999999999998
+1296,Games,Keyboard,41.49,2,29.0,3.0,3.2,82.98
+1297,Books,Sci-Fi Book,31.73,2,31.0,8.0,4.2,63.46
+1298,Electronics,Headphones,99.22,3,27.0,5.0,4.0,297.65999999999997
+1299,Games,Console Game,65.33,2,26.0,10.0,5.0,130.66
+1300,Electronics,Bluetooth Speaker,141.8,1,43.0,4.0,4.4,141.8
